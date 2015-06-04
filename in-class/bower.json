@@ -1,0 +1,19 @@
+{
+  "name": "bower install --save jQuery",
+  "version": "0.0.0",
+  "authors": [
+    "Ramona Bellamy <bellamy2727@yahoo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "~2.1.4",
+    "lodash": "~3.9.3"
+  }
+}
